@@ -11,7 +11,7 @@ Ao baixar e executar este código tenha em mente que:
 
 Este código é seguro e tem propósito somente educacional e/ou lazer, nada será afetado na sua máquina.
 
-############################################################################################################################
+###########################################################################################################
 
 #Blue_Screen_PyAutoGui
 
